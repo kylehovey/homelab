@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zetteltasken/Self-Hosted Services.md",
+                "file": "Zetteltasken/Setting Up Your Homelab.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zetteltasken/Self-Hosted Services.md",
+                "file": "Zetteltasken/Setting Up Your Homelab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zetteltasken/Self-Hosted Services.md",
+                "file": "Zetteltasken/Setting Up Your Homelab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zetteltasken/Self-Hosted Services.md"
+                "file": "Zetteltasken/Setting Up Your Homelab.md"
               }
             }
           }
