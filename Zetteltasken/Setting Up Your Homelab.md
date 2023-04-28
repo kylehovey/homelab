@@ -37,9 +37,13 @@ Self-hosting your digital life can easily become a hobby requiring constant main
 
 ## Level 0: Personal Computer
 
+![[Pasted image 20230428113851.png|200]]
+
 You can always try self-hosting on your personal deskop, or even laptop. Making sure that the computer is always on can be a little cumbersome, but this is an awesome way to get started hosting your own services.
 
 ## Level 1: SBC
+
+![[Pasted image 20230428113929.png|200]]
 
 [[SBC]]s are a really easy way to get started, although it may be less appealing now that Raspberry Pi's are so expensive. That being said, there are plenty of alternatives.
 
@@ -70,6 +74,7 @@ This is where I think most people would find the easiest path towards self-hosti
 ## Level 3: Power Bill > Rent
 
 ![[Pasted image 20230428100416.png|300]]
+*My friend's porchlab setup*
 
 I won't provide too much advice here since I don't advise buying full server-grade hardware since they are:
 

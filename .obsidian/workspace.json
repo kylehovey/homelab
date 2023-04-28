@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zetteltasken/Setting Up Your Homelab.md",
+                "file": "Attachments/NAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zetteltasken/Setting Up Your Homelab.md",
+                "file": "Attachments/NAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zetteltasken/Setting Up Your Homelab.md",
+                "file": "Attachments/NAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zetteltasken/Setting Up Your Homelab.md"
+                "file": "Attachments/NAS.md"
               }
             }
           }
@@ -149,26 +149,26 @@
   },
   "active": "1f77b516d9f47afe",
   "lastOpenFiles": [
-    "Zetteltasken/Self-Hosted Services.md",
+    "Zetteltasken/Setting Up Your Homelab.md",
     "Zetteltasken/Homelab.md",
+    "Zetteltasken/Networking.md",
+    "Zetteltasken/IoT.md",
+    "Zetteltasken/Backup.md",
+    "Zetteltasken/SBC.md",
+    "Zetteltasken/Self-Hosted Services.md",
+    "Attachments/Pasted image 20230428113929.png",
+    "Attachments/Pasted image 20230428113924.png",
+    "Attachments/Pasted image 20230428113915.png",
+    "Attachments/Pasted image 20230428113851.png",
     "Attachments/NAS.md",
     "Attachments/Pasted image 20230428104351.png",
-    "Zetteltasken/Setting Up Your Homelab.md",
     "Attachments/Pasted image 20230428104315.png",
-    "Zetteltasken/Networking.md",
     "Attachments/Pasted image 20230428103610.png",
-    "Zetteltasken/Backup.md",
     "Zetteltasken.md",
     "Zetteltasken",
     "Attachments/Pasted image 20230428092842.png",
     "Attachments",
     "Attachments/Pasted image 20230428100416.png",
-    "Attachments/Pasted image 20230428100102.png",
-    "Zetteltasken/IoT.md",
-    "Attachments/Pasted image 20230428093941.png",
-    "Attachments/Pasted image 20230428093757.png",
-    "Attachments/Pasted image 20230428093422.png",
-    "Attachments/Pasted image 20230428093156.png",
-    "Zetteltasken/SBC.md"
+    "Attachments/Pasted image 20230428100102.png"
   ]
 }
